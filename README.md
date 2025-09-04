@@ -36,6 +36,5 @@ A simple **C# console application** to manage employees using Object-Oriented Pr
 
 ## 👤 Author
 - Ahmed Ayman
-- GitHub: Ahmed-Ayman630
 - Email: aymanahmed630@gmail.com
 - [LinkedIn Profile](https://www.linkedin.com/in/username)
