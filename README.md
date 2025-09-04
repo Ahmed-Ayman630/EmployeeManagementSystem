@@ -31,3 +31,11 @@ A simple **C# console application** to manage employees using Object-Oriented Pr
 2. Open the project in Visual Studio (or any C# IDE).
 3. Build the solution (Ctrl + Shift + B).
 4. Run the program (Ctrl + F5).
+
+---
+
+## 👤 Author
+- Ahmed Ayman
+- GitHub: Ahmed-Ayman630
+- Email: aymanahmed630@gmail.com
+- LinkedIn:ahmed-aymen-84212b283
