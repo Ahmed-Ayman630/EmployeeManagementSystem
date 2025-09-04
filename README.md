@@ -23,14 +23,22 @@ A simple **C# console application** to manage employees using Object-Oriented Pr
 - Employee.cs → Derived class (example of inheritance)
 - Manager.cs → Derived class (example of inheritance)
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ahmed-Ayman630/EmployeeManagementSystem.git
-   
-2. Open the project in Visual Studio (or any C# IDE).
-3. Build the solution (Ctrl + Shift + B).
-4. Run the program (Ctrl + F5).
+---
+
+## 📥 Download & Run
+
+You can download the latest version of the application from the Release section:
+
+[Download Employee Management System v1.0](https://github.com/Ahmed-Ayman630/EmployeeManagementSystem/releases/download/v1.0/EmployeeManagementSystem.exe)
+
+---
+
+## 🖥️ How to Run
+
+1. Download the `.exe` file from the link above.     
+2. 2. If it is in a zip file, extract it first.  
+3. Double-click on `EmployeeManagementSystem.exe` to run the application.  
+4. Follow the instructions displayed in the console.
 
 ---
 
