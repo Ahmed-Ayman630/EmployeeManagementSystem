@@ -29,7 +29,7 @@ A simple **C# console application** to manage employees using Object-Oriented Pr
 
 You can download the latest version of the application from the Release section:
 
-[Download Employee Management System v1.0](https://github.com/Ahmed-Ayman630/EmployeeManagementSystem/releases/tag/v1.0)
+[Download Employee Management System v1.0](https://github.com/Ahmed-Ayman630/EmployeeManagementSystem/releases/download/v1.0/ConsoleApp1.exe)
 
 ---
 
